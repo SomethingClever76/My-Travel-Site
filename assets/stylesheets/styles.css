@@ -1,0 +1,14 @@
+h1 {
+    color:blue;
+    background-color: antiquewhite;
+    text-align: center
+}
+
+ul {
+    float: left;
+    width: 100%;
+    clear: both;
+    padding: 5%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
